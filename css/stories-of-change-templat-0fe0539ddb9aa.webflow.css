@@ -3078,6 +3078,10 @@ figcaption {
   border-width: 0;
 }
 
+.btn-primary.white.button-row.margin-top {
+  margin-top: 26px;
+}
+
 .btn-primary.inside-input {
   justify-content: center;
   align-items: center;
